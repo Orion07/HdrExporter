@@ -1,0 +1,9 @@
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.exe.config
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.exe
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\bin\Debug\hdrExporter.pdb
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.csprojResolveAssemblyReference.cache
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.Form1.resources
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.Properties.Resources.resources
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.csproj.GenerateResource.Cache
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.exe
+c:\users\orion\documents\visual studio 2012\Projects\hdrExporter\hdrExporter\obj\Debug\hdrExporter.pdb
